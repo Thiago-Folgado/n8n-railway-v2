@@ -8,6 +8,6 @@
     "startCommand": "n8n start",
     "restartPolicyType": "always",
     "healthcheckPath": "/healthz",
-    "healthcheckTimeout": 60
+    "healthcheckTimeout": 300
   }
 }
